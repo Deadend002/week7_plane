@@ -146,9 +146,9 @@ MonoBehaviour:
   liftBooster: 1
   drag: 0.3
   angularDrag: 0.3
-  yawPower: 60
-  pitchPower: 60
-  rollPower: 40
+  yawPower: 50
+  pitchPower: 50
+  rollPower: 30
 --- !u!54 &90738290
 Rigidbody:
   m_ObjectHideFlags: 0
